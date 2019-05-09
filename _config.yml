@@ -1,9 +1,9 @@
-title:             Clean Blog
-email:             your-email@example.com
+title:             Senthil Blog
+email:             senthilvs7@gmail.com
 description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+author:            Senthil
+baseurl:           "/senthil-blog"
+url:               "http://eleorex.github.io"
 
 # Social Profiles
 twitter_username:  SBootstrap
